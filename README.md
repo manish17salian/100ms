@@ -1,2 +1,2 @@
-#npm intsall
+#npm install
 #npm start
