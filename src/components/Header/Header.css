@@ -1,0 +1,23 @@
+.TitleContainer {
+    text-align: center;
+    color: yellow;
+    font-size: larger;
+    letter-spacing: 1.5rem;
+}
+
+.HeaderRest {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.TextColor{
+    color:red;
+}
+
+.SubHeading{
+    width: 50%;
+    color: white;
+    letter-spacing: .8rem;
+}
+
